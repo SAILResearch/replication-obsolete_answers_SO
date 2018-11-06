@@ -21,6 +21,6 @@ url={https://doi.org/10.5281/zenodo.1320311}
 ## Data
 
 - Quantitative Data:
-  - [all 58201 observations of obsolete answers:](https://github.com/SAILResearch/replication-classifier_conf_config_bugloc/files/1738073/bugs-to-files.zip)
+  - [all 58201 observations of obsolete answers (QuestionID, AnswerID, CommentID, CommentText):](https://github.com/SAILResearch/replication-classifier_conf_config_bugloc/files/1738073/bugs-to-files.zip)
 - Qualitative Data:
-  - [all 700 labeled obsolete answers in RQs](https://github.com/SAILResearch/replication-classifier_conf_config_bugloc/files/1490023/all-classifier-results.zip)
+  - [all 700 obsolete answers in RQs (with labels)](https://github.com/SAILResearch/replication-classifier_conf_config_bugloc/files/1490023/all-classifier-results.zip)
