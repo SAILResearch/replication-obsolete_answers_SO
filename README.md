@@ -1,6 +1,7 @@
 # Replication Package for "An Empirical Study of Obsolete Answers on Stack Overflow"
 
 Haoxiang Zhang, Shaowei Wang, Tse-Hsun (Peter) Chen, Ying Zou, and Ahmed E. Hassan
+
 under revision for [IEEE Transactions on Software Engineering](https://doi.org/10.5281/zenodo.1320311)
 
 Abstract: Stack Overflow accumulates an enormous amount of software engineering knowledge. However, as time passes, certain knowledge in answers may become obsolete. Such obsolete answers, if not identified or documented clearly, may mislead answer seekers and cause unexpected problems (e.g., using an out-dated security protocol). In this paper, we investigate how the knowledge in answers becomes obsolete and identify the characteristics of such obsolete answers. We find that: 1) More than half of the obsolete answers (58.4%) were probably already obsolete when they were first posted. 2) When an obsolete answer is observed, only a small proportion (19.2%) of such answers are ever updated. 3) Answers to questions in certain tags (e.g., tags related to web and mobile development) are more likely to become obsolete. Our findings suggest that Stack Overflow should develop mechanisms to encourage the whole community to maintain answers (to avoid obsolete answers) and answer seekers are encouraged to carefully go through all information (e.g., comments) in answer threads.
