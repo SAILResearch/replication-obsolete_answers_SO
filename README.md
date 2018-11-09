@@ -23,4 +23,4 @@ url={https://doi.org/10.5281/zenodo.1320311}
 - Quantitative Data:
   - [all 58201 observations of obsolete answers (QuestionID, AnswerID, CommentID, CommentText)](https://github.com/SAILResearch/replication-obsolete_answers_SO/releases/download/v1.0/quantitative_data.csv)
 - Qualitative Data:
-  - [all 700 obsolete answers in RQs (with labels)](https://github.com/SAILResearch/replication-obsolete_answers_SO/releases/download/v1.0/qualitative_data.csv)
+  - [all 669 obsolete answers in RQs (with labels)](https://github.com/SAILResearch/replication-obsolete_answers_SO/releases/download/v1.0/qualitative_data.csv)
