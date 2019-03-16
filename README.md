@@ -8,11 +8,11 @@ Abstract: Stack Overflow accumulates an enormous amount of software engineering 
 ## BibTeX
 
 ```bibtex
-@ARTICLE{Haoxiang2018,
+@ARTICLE{Zhang2019,
 author={H. Zhang and S. Wang and T. Chen and Y. Zou, and A. E. Hassan},
 title={An Empirical Study of Obsolete Answers on Stack Overflow},
-year={2018},
-month=jul,
+journal={IEEE Transactions on Software Engineering},
+year={2019},
 doi={10.5281/zenodo.1320311},
 url={https://doi.org/10.5281/zenodo.1320311}
 }
